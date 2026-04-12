@@ -1,0 +1,15 @@
+# Howard Young
+
+> Personal website and professional profile of Howard Young, Cloud Storage Architect & Technology Executive based in Dothan, Alabama. Founder of Howard Young Tech, specializing in enterprise data storage (NVMe-oF, S3 Object Storage, HCI) and AI infrastructure.
+
+## Core Content
+- [Home](https://howardyoung.github.io/): Professional profile and overview.
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/howardy/): Professional network profile.
+- [Twitter / X](https://x.com/howard_o_young): Social media presence.
+- [GitHub](https://github.com/howardyoung): Open source repositories and projects.
+
+## Insights & Media
+- [HY Tech Insights Newsletter](https://www.linkedin.com/newsletters/hy-tech-insights/): Technology insights newsletter on LinkedIn.
+- [Edgenut Systems](https://edgenut.com): AI storage company.
